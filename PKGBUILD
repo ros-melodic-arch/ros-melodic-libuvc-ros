@@ -6,7 +6,7 @@ url='https://wiki.ros.org/libuvc_ros'
 pkgname='ros-melodic-libuvc-ros'
 pkgver='0.0.10'
 arch=('any')
-pkgrel=2
+pkgrel=3
 license=('BSD')
 
 ros_makedepends=(ros-melodic-catkin)

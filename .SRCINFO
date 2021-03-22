@@ -1,7 +1,7 @@
 pkgbase = ros-melodic-libuvc-ros
 	pkgdesc = ROS - libuvc_ros metapackage.
 	pkgver = 0.0.10
-	pkgrel = 2
+	pkgrel = 3
 	url = https://wiki.ros.org/libuvc_ros
 	arch = any
 	license = BSD
